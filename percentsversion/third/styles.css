@@ -1,3 +1,7 @@
+html, body {
+  height: 100%;
+}
+
 div {
   border: 1px solid black;
 }
@@ -10,18 +14,22 @@ body {
 }
 
 header {
-  height: 15vh;
+  height: 15%;
   padding: 10px;
   background-color: lightgrey;
 }
 
 .hero {
-  height: 25vh;
+  max-width: 100%;
   background-color: white;
 } 
 
+.hero p {
+  font-size: 1.1em;
+}
+
 .second, .third, .fourth, .fifth {
-  height: 15vh;
+  height: 15%;
 }
 
 .second {
