@@ -1,0 +1,38 @@
+header {
+  height: 20vh;
+  width: 100%;
+  background-color: #444444;
+}
+
+.left-bar {
+  float: left;
+  width: 15%;
+  height: 80vh;
+  background-color: #D8D8D8;
+}
+
+.middle {
+  float: left;
+  height: 80vh;
+  width: 70%;
+  background-color: white;
+}
+
+.top-middle {
+  height: 70vh;
+  background-color: white;
+  width: 100%;
+}
+.bottom-middle {
+  height: 10vh;
+  background-color: black;
+  width: 100%;
+}
+
+.right-bar {
+  float: left;
+  height: 80vh;
+  width: 15%;
+  background-color: #D8D8D8;
+}
+

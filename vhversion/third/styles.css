@@ -1,0 +1,48 @@
+div {
+  border: 1px solid black;
+}
+
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 15vh;
+  padding: 10px;
+  background-color: lightgrey;
+}
+
+.hero {
+  height: 25vh;
+  background-color: white;
+} 
+
+.second, .third, .fourth, .fifth {
+  height: 15vh;
+}
+
+.second {
+  background-color: #4A90E2
+}
+
+.third {
+  background-color:  #50E3C2;
+}
+
+.fourth {
+  background-color: #B8E986;
+}
+
+.fifth {
+  background-color: #F8E71C;
+}
+
+.progress {
+  height: 75%;
+  width: 10%;
+  margin-top: 10px;
+  background-color: #4A90E2;
+}
